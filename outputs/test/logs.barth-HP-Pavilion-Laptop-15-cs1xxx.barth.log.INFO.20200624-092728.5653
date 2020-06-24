@@ -1,0 +1,5 @@
+I0624 09:27:30.654671 140522825189184 resolver.py:79] Using /tmp/tfhub_modules to cache modules.
+I0624 09:27:30.655135 140522825189184 resolver.py:413] Downloading TF-Hub Module 'https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/4'.
+I0624 09:27:49.152816 140522825189184 resolver.py:122] Downloading https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/4: 61.42MB
+I0624 09:27:56.874386 140522825189184 resolver.py:122] Downloaded https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/4, Total size: 91.35MB
+I0624 09:27:56.874707 140522825189184 resolver.py:428] Downloaded TF-Hub Module 'https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/4'.
